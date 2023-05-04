@@ -30,5 +30,5 @@ variable "timeout" {
 
 variable "s3_key" {
     type = string
-    default = "another_lambda_function.zip"
+    default = "lambda_function.zip"
 }
